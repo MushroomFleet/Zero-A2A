@@ -1,5 +1,7 @@
 # Zero-A2A: Enterprise-Grade Agent-to-Agent Protocol Implementation
 
+UNSTABLE _ BURNT TO A CRISP _ WIP
+
 Zero-A2A is a production-ready implementation of the Agent-to-Agent (A2A) Protocol, designed for enterprise environments with comprehensive security, monitoring, and scalability features.
 
 ## 🚀 Features
